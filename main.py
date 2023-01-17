@@ -2,6 +2,13 @@
 Date - 24/Nov/2022
 Author - Kushagra Mittal
 Project - Drumkit
+
+Planned Features -  Save Beats
+                    Change Themes
+                    Custom Theme
+                    Change Instruments
+
+Last Edit - 25/Nov/2022
 '''
 
 
